@@ -4,6 +4,7 @@ title: GroundUp Campaigns App
 ---
 
 # GroundUp Campaigns
+<!--break-->
 > We all have the power to make change happen, right now.
 
 ## GroundUp Campaigns connects you with your neighbors to act locally.
