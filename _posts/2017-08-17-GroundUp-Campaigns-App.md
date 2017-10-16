@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: GroundUp Campaigns App
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+# GroundUp Campaigns
+> We all have the power to make change happen, right now.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+## GroundUp Campaigns connects you with your neighbors to act locally.
+GroundUp Campaigns is a toolkit where local residents can discover opportunities to make real change happen wherever they live. The app helps neighbors plan a smart campaign, and built-in expert coaching helps to make it real, all from the ground up.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+[Learn more at](http://groundupcampaigns.com)
