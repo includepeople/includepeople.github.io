@@ -14,14 +14,14 @@ avatar: https://raw.githubusercontent.com/includepeople/includepeople.github.io/
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: oren@includepeople.com
   facebook:
   flickr:
   github:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: https://www.patreon.com/includepeople
   twitter: include_people
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
