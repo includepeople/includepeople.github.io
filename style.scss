@@ -287,3 +287,10 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+.svg-icon.email {
+    background-image: url(images/email_icon.svg);
+}
+.svg-icon.rss {
+    background-image: url(images/rss_icon.svg);
+}
